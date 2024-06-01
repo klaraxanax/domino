@@ -19,9 +19,9 @@ function Footer() {
           </ul>
         </div>
       </div>
-      <div className="footer-bottom">
+      {/* <div className="footer-bottom">
         <p>Designed and developed by Your Company</p>
-      </div>
+      </div> */}
     </footer>
   );
 }

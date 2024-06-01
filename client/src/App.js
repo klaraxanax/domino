@@ -9,6 +9,11 @@ import KidsPage from './components/KidsPage';
 import BrandsPage from './components/BrandsPage';
 import Footer from './components/Footer';
 import './App.css';
+// import '@fortawesome/fontawesome-free/css/all.min.css';
+// import { library } from '@fortawesome/fontawesome-svg-core';
+// import { faCoffee, faUser, faHeart, faShoppingCart } from '@fortawesome/free-solid-svg-icons';
+
+// library.add(faCoffee, faUser, faHeart, faShoppingCart);
 
 
 function App() {
